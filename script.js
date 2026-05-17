@@ -16,7 +16,7 @@ const formulas = {
   O: ["16 u","a⁰" ],
   P: ["F · v", "W/t","31 u","I · V"],
   Q: ["mcΔT","I² Rt"],
-  R: ["PV/nT", "V · I", "C/2π","-G(m · M)/U"],
+  R: ["PV/nT", "V/I", "C/2π","-G(m · M)/U"],
   S: ["v · t","32 u","ut+vt/2","J/W"],
   T: ["1/f","2π· √L/g","2π/w","2π · √m/k"],
   U: ["Q + W", "3 · n · R · T / 2","m · g · h", ],
