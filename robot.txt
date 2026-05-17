@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thypher.netlify.app/sitemap.xml
