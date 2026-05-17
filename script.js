@@ -33,7 +33,7 @@ const palabras = [
   "ROBOT", "STORM", "CLOUD", "PLANT", "BASIC",
   "STONE", "SMILE", "SHOCK", "WAVES", "RIVER",
   "METAL", "FLUID", "SPEED", "PULSE", "MAGIC",
-  "GLASS", "NERVE", "EXPEL", "MOUSE", "APPLE",
+  "GLASS", "NERVE", "EXPEL", "ZEBRA", "APPLE",
   "CHAIR", "EXTRA", "PHONE", "MUSIC", "VIDEO",
   "RADIO", "GREEN", "BLACK", "STARS", "BROWN",
   "HOUSE", "BRICK", "LEVEL", "SMOKE", "FLAME",
